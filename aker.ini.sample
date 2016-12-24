@@ -1,0 +1,23 @@
+[General]
+log_level = DEBUG
+
+;; Change this to the username you used to build Aker
+[lab]
+enabled = True
+;; Add hosts for this user
+;; One entry per line
+;; Format: hostname,port,username
+hosts = r1,22,admin
+    r2,22,admin
+    r3,22,admin
+    r4,22,admin
+    r5,22,admin
+    r6,22,admin
+    r7,22,admin
+    r8,22,admin
+    r9,22,admin
+    r10,22,admin
+    r11,22,admin
+    r12,22,admin
+    r13,22,admin
+    r14,22,admin
